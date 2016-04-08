@@ -1,0 +1,15 @@
+body{
+  background-color: #2ecc71;
+  color: white;
+}
+
+.iphone{
+  padding: 60px
+}
+@font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.0.1');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff?v=4.0.1') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.0.1') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+
+.text{
+  height: auto;
+  width: auto;
+  padding-top: 180px;
+}
