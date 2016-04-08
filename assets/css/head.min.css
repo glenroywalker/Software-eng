@@ -1,5 +1,5 @@
 body{
-  background-color: #2ecc71;
+
   color: white;
 }
 
@@ -12,4 +12,29 @@ body{
   height: auto;
   width: auto;
   padding-top: 180px;
+}
+
+.video{
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+  z-index: -2;
+}
+
+.vidcov{
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.7);
 }
